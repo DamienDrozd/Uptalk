@@ -1,4 +1,4 @@
-## Lien du GitHub : https://github.com/timothyWu1/Uptalk
+## Lien du GitHub : https://github.com/DamienDrozd/Uptalk
 L’objectif du projet est de réaliser un site de rencontre basé sur l’exemple de tinder. La différence réside lors de la sélection des profils qui ne contient aucune photo.
 
 L’idée est d’avoir une alternative a Tinder plus orienté sur le caractère des personnes, chose qu’on ne trouve pas ou peu sur les applications de rencontre.
